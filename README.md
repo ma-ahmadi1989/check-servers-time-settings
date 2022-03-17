@@ -82,3 +82,7 @@ Tehran_dst_enabled
 #zdump -v /etc/localtime | grep 2022
 </br>
 #.
+
+# Automated DST Disabler
+You can use the automate script "debian_disable_dst.sh" to disable the DST
+- #/bin/bash debian_disable_dst.sh
