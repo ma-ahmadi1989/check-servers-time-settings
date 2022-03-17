@@ -1,0 +1,6 @@
+# Zone NAME     GMTOFF RULES FORMAT [UNTIL]
+Zone  Asia/Tehran  3:25:44 -   LMT  1916
+           3:25:44 -   TMT  1946  # Tehran Mean Time
+           3:30  -   IRST  1977 Nov
+           4:00  -   IRST  1979
+           3:30  -   IRST
