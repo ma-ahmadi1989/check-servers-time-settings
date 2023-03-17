@@ -1,5 +1,5 @@
 # About this script
-This script gets a list of target machines in a csv format and checks the time settings of each one. The result will also be saved in csv under ./result.csv
+This script gets a list of target machines in a CSV format and checks the time settings of each one. The result will also be saved in CSV under ./result.csv
 
 # Requirements
 - SSH access to the target machines from the local machine
